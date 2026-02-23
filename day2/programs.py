@@ -7,7 +7,7 @@ print(c)
 #data type
 age=20
 marks=15.5
-name="pavani"
+name="pramod"
 print(type(age))
 print(type(marks))
 print(type(name))
@@ -17,7 +17,7 @@ age=20
 print(int(age)+5)
 
 #multiple assignment
-age,name,marks=17,"Pavani",15.5
+age,name,marks=17,"Pramod",15.5
 print("age:",age)
 print("name:",name)
 print("marks:",marks)
